@@ -367,13 +367,12 @@ ul { list-style: none; }
         min-height: auto;
     }
 
-    /* --- Мобільний Хедер --- */
     .navbar {
-        position: absolute;
+        position: relative;
     }
 
     .hero {
-        padding-top: 260px;
+        padding-top: 50px;
     }
 
     .nav-container {
