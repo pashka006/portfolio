@@ -368,6 +368,14 @@ ul { list-style: none; }
     }
 
     /* --- Мобільний Хедер --- */
+    .navbar {
+        position: absolute;
+    }
+
+    .hero {
+        padding-top: 260px;
+    }
+
     .nav-container {
         flex-direction: column;
         justify-content: center;
